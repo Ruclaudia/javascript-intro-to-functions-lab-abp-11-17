@@ -4,6 +4,3 @@ function shout (string) {
 function whisper (string) {
   return string.lowercase ()
 }
-function sayHiToGrandma (sting) {
-  return string.Icanthearyou ()
-}
